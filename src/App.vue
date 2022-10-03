@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="This is a string sent to child"/>
+  <HelloWorld msg="Hello World!"/>
 </template>
 
 <script>
