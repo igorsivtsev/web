@@ -1,26 +1,15 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Hello World!"/>
+  <p> Exercise 3: The newly generated project contains a few placeholders. 
+    Cleanup your project so it does not contain neither useless assets, nor the hello world. 
+    In other words, delete HelloWorld.vue, its related assets and all its references. 
+    As at the end of each exercise, the vue cli should not report any error or warning.
+  </p>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
 
-export default {
-  name: 'App',
-  components: {
-    HelloWorld
-  }
-}
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
 </style>
